@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Haseeb <br><br>- 🔭 I’m working as a Senior Software Engineer<br>- 📚 I'm currently learning AI<br>- ⚡ In my free time I play cricket, hangout on StackOverflow, discord and GitHub</p>
+<p align="left">I'm Haseeb <br><br>- 🔭 I’m working as a Senior Software Engineer<br>- 📚 I'm currently learning AI, Kubernetes and Container Orchestration<br>- ⚡ In my free time I play cricket, hangout on StackOverflow, discord and GitHub</p>
 
 ###
 
