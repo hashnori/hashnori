@@ -72,7 +72,11 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hashnori&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hashnori&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+    height="220"
+    alt="GitHub stats"
+  />
 </div>
 
 ###
